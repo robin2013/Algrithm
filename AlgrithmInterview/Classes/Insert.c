@@ -37,7 +37,7 @@ void insertSort(int *array, int size) {
     }
     printf("\n");
 
-    printf("insertSort end ----\n");
+    printf(" insertSort end ----\n");
 
 }
 

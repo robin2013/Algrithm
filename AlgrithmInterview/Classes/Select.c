@@ -37,7 +37,7 @@ void selectSort(int *array, int size) {
     }
     printf("\n");
 
-    printf("selectSort end ----\n");
+    printf(" selectSort end ----\n");
 
 }
 

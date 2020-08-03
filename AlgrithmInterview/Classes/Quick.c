@@ -57,7 +57,7 @@ void quickSort(int *array, int size) {
     }
     printf("\n");
 
-    printf("quickSort end ----\n");
+    printf(" quickSort end ----\n");
 
 }
 

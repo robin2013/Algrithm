@@ -10,5 +10,5 @@
 #define Merge_h
 
 #include <stdio.h>
-
+void mergeSort(int *array, int size);
 #endif /* Merge_h */
